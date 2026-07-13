@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Test on aalage的博客</title>
+		<link>http://example.org/categories/test/</link>
+		<description>Recent content in Test on aalage的博客</description>
+		<generator>Hugo</generator>
+		<language>zh-CN</language>
+		
+			<managingEditor>abc1112807758@qq.com (aalage)</managingEditor>
+		
+		
+			<webMaster>abc1112807758@qq.com (aalage)</webMaster>
+		
+		
+			<copyright>We now think we own it</copyright>
+		
+		
+			<lastBuildDate>Thu, 09 Apr 2026 10:58:08 -0400</lastBuildDate>
+		
+			<atom:link href="http://example.org/categories/test/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Hello, world</title>
+				<link>http://example.org/posts/hello-world/</link>
+				<pubDate>Thu, 09 Apr 2026 10:58:08 -0400</pubDate><author>abc1112807758@qq.com (aalage)</author>
+				<guid>http://example.org/posts/hello-world/</guid>
+				<description>&lt;p&gt;这是我的第一个博客文章（其实只能算个测试）&#xA;总之，这个网站从此开始了。&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
